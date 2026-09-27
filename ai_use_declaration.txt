@@ -1,0 +1,39 @@
+AI Use Declaration
+
+In accordance with assignment and course guidelines, I declare that AI tools were used as a supportive learning and technical assistant during the assignment as follows:
+
+Understanding Project Scope:
+- ChatGPT for understanding identifiers of pneumonia and causes of uncertainty
+-- “What radiographic features can suggest pneumonia, and why can these features be uncertain or nonspecific?”
+-- “Why does an RSNA lung-opacity label not establish a confirmed pneumonia diagnosis?”
+
+Code Debugging and Troubleshooting: 
+- ChatGPT for diagnosing PyTorch syntax errors
+-- "Explain this PyTorch error"
+- ChatGPT for fixing tensor shape mismatches
+--"My model produces logits shaped [32, 1], but my labels have shape [32]"
+- ChatGPT for debugging data loading pipelines
+-- "How can I check image paths, missing labels, tensor types and batch dimensions?"
+
+Conceptual Understanding of ResNet: 
+- ChatGPT for deepening my understanding of the ResNet-18 architecture
+-- "Explain ResNet-18’s main components and how an image passes through them."
+- ChatGPT for residual skip connections, layer unfreezing strategies, and transfer learning dynamics.
+--"How do residual skip connections help gradients propagate during training?"
+--"Why train the classification head first and then unfreeze the final convolutional block?"
+-- "How can an ImageNet pretrained network accept greyscale radiographs, and what are the limitations of this transfer learning approach?"
+
+University HPC Cluster Access: 
+- Claude for assisting with SSH terminal commands, remote environment setups, and script execution configuration for running GPU jobs on the university cluster to speed training process.
+-- "Explain how to connect through SSH and transfer my training script"
+
+Report Structuring and Outlining: 
+- Claude for organising section outlines and structural templates to ensure all prompts, required figures, and criteria from the assignment brief were addressed.
+-- "Using this assignment brief, suggest a report outline that covers every required task within six pages."
+-- "Is there anything glaring missing from my report according to the brief?"
+
+AI Use Declaration:
+- ChatGPT for listing all prompts used and writing them in a professional manner.
+-- "Please list all the prompts used in this chat and rewrite them with better grammar and spelling"
+
+Yomna Elnikety
